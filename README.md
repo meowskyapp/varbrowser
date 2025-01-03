@@ -1,4 +1,4 @@
-# varbrowser
+![image](https://github.com/user-attachments/assets/e4a08876-49bb-499c-bf91-e38d12cb0b55)# varbrowser
 
 # varbrowser | I developed an browser, support infinite split-screen
 
@@ -22,7 +22,6 @@ specialty, e.g. Qwen, poe, chatgpt, deepseek3.
 
 4 I also bookmark things that I'm interested in while surfing the web, so I can come back to them when I need them.
 
-Translated with DeepL.com (free version)
 
 ...
 
@@ -35,7 +34,9 @@ I'm like a tool doing the same thing over and over again, and the tab switching 
 When the number of tabs gets too high, I don't remember where I'm currently browsing, and it interrupts my train of
 thought.
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/620682ec-258c-4870-8e2a-4b89eff2c861)
+
+
 
 ## varbrowser approach
 
@@ -46,4 +47,4 @@ on the same page.
 
 It's so cool that I can't work without it now because it lets me browse the web at 10x speed.。
 
-![image_1.png](image_1.png)
+![image_2](https://github.com/user-attachments/assets/6b5509d1-0d14-41db-930a-8a31f3371e2f)
